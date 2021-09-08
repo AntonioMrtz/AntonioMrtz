@@ -4,9 +4,9 @@
 ## I'm a UMU university student 🔥
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 Currently i'm working with  Python , Java , C , C++ 
+- 🌱 I’m currently trying to learn Html 📓
+- 🥅 2021 Goals: CodeAdvent2020  
 - ⚡ Fun fact: I love sports such as cycling and running
 
 ### Connect with me:

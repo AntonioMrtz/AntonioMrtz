@@ -6,7 +6,7 @@
 
 - 👯 Currently i'm working with  Python , Java , C , C++ 
 - 🌱 I’m currently trying to learn Html 📓
-- 🥅 2021 Goals: CodeAdvent2020  
+- 🥅 2021 Goals: CodeAdvent2020 & Discord Bot
 - ⚡ Fun fact: I love sports such as cycling and running
 
 ### Connect with me:

@@ -5,7 +5,7 @@
 
 
 - 👯 Currently i'm working with  Python , Java , C , C++ , PHP and HTML.
-- 🌱 I’m currently trying to learn Html & Android Developement 📓
+- 🌱 I’m currently trying to learn Js & Android Developement 📓
 - 🥅 2021 Goals: CodeAdvent & Discord Bot
 - ⚡ Fun fact: I love sports such as cycling and running
 

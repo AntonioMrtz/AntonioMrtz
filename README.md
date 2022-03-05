@@ -4,8 +4,8 @@
 ## I'm a UMU university student 🔥
 
 
-- 👯 Currently i'm working with  Python , Java , Js , C , C++ , PHP and HTML.
-- 🌱 I’m currently trying to learn TypeScript & Android Developement 📓
+- 👯 Currently i'm working with  Python , Java , JavaScript/TypeScript , C , C++ , PHP .
+- 🌱 I’m currently trying to learn HTML & Android Developement 📓
 - 🥅 2021 Goals: CodeAdvent & Discord Bot
 - ⚡ Fun fact: I love sports such as cycling and running
 

@@ -13,6 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Antonio Martínez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Antonio Martínez | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -25,3 +26,4 @@
 
 
 [instagram]: https://www.instagram.com/antonio_martin3z/
+[spotify]: https://open.spotify.com/track/7eTXHE3XiucigdrYHrXpZK?si=66832863f0984a73

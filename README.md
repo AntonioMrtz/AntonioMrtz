@@ -26,4 +26,4 @@
 
 
 [instagram]: https://www.instagram.com/antonio_martin3z/
-[spotify]: https://open.spotify.com/track/7eTXHE3XiucigdrYHrXpZK?si=66832863f0984a73
+[spotify]: https://open.spotify.com/user/vlaq4n0vv2qlx5yxzuwhibryc?si=1e9d20f0dd664fac

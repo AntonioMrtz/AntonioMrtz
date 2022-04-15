@@ -8,7 +8,8 @@
 - 🌱 I’m currently trying to learn HTML/Css & Android Developement 👽
 - 🥅 2022 Goals: CodeAdvent & Discord Bot
 - ⚡ Fun fact: I love sports such as cycling and running
-- 🌐 More info on my <a href="https://antoniomrtz.github.io/Antonio-Martinez-Portafolio/"  target="_blank">WebSite</a>
+- 🌐 More info on my [Website](https://antoniomrtz.github.io/Antonio-Martinez-Portafolio/){target="_blank"}
+
 
 ### Connect with me:
 

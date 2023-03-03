@@ -4,8 +4,8 @@
 ## UMU university student 📖
 
 - 🔥 My two main programming languages are Python and Java.
-- 👯 I also have experience with JavaScript/TypeScript , C/C++ , PHP and Sql Databases.
-- 🌱 I’m currently trying to learn HTML/Css & Android Developement 👽
+- 👯 I also have experience with JavaScript/TypeScript , HTML/Css/Boostrap, C/C++ , PHP and SQL/MongoDB Databases.
+- 🌱 I’m currently learning Android Developement 👽
 - 🥅 2022 Goals: CodeAdvent & Android App
 - ⚡ Fun fact: I love sports such as cycling and running
 - 🌐 More info on my [Website](https://antoniomrtz.github.io/Antonio-Martinez-Portafolio/)

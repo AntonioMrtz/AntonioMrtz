@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Android Developement 👽
 - 🥅 2022 Goals: CodeAdvent & Android App
 - ⚡ Fun fact: I love sports such as cycling and running
-- 🌐 More info on my [Website](https://antoniomrtz.github.io/Antonio-Martinez-Portafolio/)
+- 🌐 More info on my [Website](https://antoniomrtz.github.io/Portfolio/)
 
 
 ### Connect with me:

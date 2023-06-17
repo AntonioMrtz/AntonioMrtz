@@ -15,7 +15,7 @@
 
 [<img align="left" alt="Antonio Martínez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Antonio Martínez | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
-[<img align="left" alt="Antonio Martínez | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][spotify]
+[<img align="left" alt="Antonio Martínez | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][spotify]
 
 <br />
 
@@ -29,3 +29,4 @@
 
 [instagram]: https://www.instagram.com/antonio_martin3z/
 [spotify]: https://open.spotify.com/user/vlaq4n0vv2qlx5yxzuwhibryc?si=1e9d20f0dd664fac
+[linkedin]: https://www.linkedin.com/in/antonio-martinez-fern%C3%A1ndez-7b2a3224b/

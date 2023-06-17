@@ -6,7 +6,7 @@
 - 🔥 My two main programming languages are Python and Java.
 - 👯 I also have experience with JavaScript/TypeScript , HTML/Css/Boostrap, C/C++ , PHP and SQL/MongoDB Databases.
 - 🌱 I’m currently learning Android Developement 👽
-- 🥅 2022 Goals: CodeAdvent & Android App
+- 🥅 2023 Goals: CodeAdvent & Electron APP
 - ⚡ Fun fact: I love sports such as cycling and running
 - 🌐 More info on my [Website](https://antoniomrtz.github.io/Portfolio/)
 

@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there, I'm Antonio Martínez - Software engineer 👋
-I am a software engineer graduated in computer sciences from UMU, right now working at [Bionet](https://bionet.com/) where im developing backend software such as ROSITA2 and CTB for bioreactors.
+I am a software engineer graduated in computer sciences from Universidad de Murcia, right now working at [Bionet](https://bionet.com/) where im developing embeded backend software ROSITA2 for biorreactors.
 
 
 💻 I am passionate about programming and enjoy spending my free time working on projects that solve problems or turn ideas into software.

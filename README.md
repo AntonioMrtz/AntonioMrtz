@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there, I'm Antonio Martínez - Software engineer 👋
-I am a software engineer graduated in computer sciences from Universidad de Murcia, right now working at [Bionet](https://bionet.com/) where I'm developing embedded backend software ROSITA2 for bioreactors. The main tasks I have carried are the implementation of REST API and microservices using Python and FastAPI. I have also work hand by hand with electronics and frontend teams for the development of [CT1](https://bionet.com/bioreactors/ct-1/) and [bBreath4](https://bionet.com/bioreactor-modules/bbreath/).
+I am a software engineer graduated in computer sciences from Universidad de Murcia, right now working at [Bionet](https://bionet.com/) where I'm developing embedded backend software ROSITA2 for bioreactors. The main tasks I have carried are the implementation of REST APIs and microservices using Python and FastAPI. I have also work hand by hand with electronics and frontend teams for the development of [CT1](https://bionet.com/bioreactors/ct-1/) and [bBreath4](https://bionet.com/bioreactor-modules/bbreath/).
 
 
 💻 I am passionate about programming and enjoy spending my free time working on projects that solve problems or turn ideas into software.

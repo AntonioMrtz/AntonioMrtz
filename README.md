@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there, I'm Antonio Martínez - Full Stack Software Engineer 👋
 
-Software engineer graduated in computer sciences from Universidad de Murcia. I consider myself an outgoing and proactive person who has no problem interacting with others in the workplace and always tries to propose solutions.
+I am a Software Engineer with a degree in Computer Science from the Universidad de Murcia. I consider myself an outgoing and proactive individual who thrives on collaborating with others in the workplace. I am passionate about driving continuous improvement and refining processes to deliver effective solutions. My goal is to always contribute to the success of my team and organization through innovation and teamwork.
 
 💻 I have created [Spotify Electron](https://github.com/AntonioMrtz/SpotifyElectron), a fully functional open-source cross-platform music streaming desktop application that aims to include all the original Spotify features as well as add requested extra features, such as the ability to upload your own songs to the platform. This project covers all stages of software development, from agile planning to automation. I actively engage with contributors from all across the world, reviewing their code and providing feedback to ensure high-quality contributions.
 

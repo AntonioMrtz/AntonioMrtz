@@ -1,13 +1,13 @@
 # 💫 About Me:
 ### Hi there, I'm Antonio Martínez - Full Stack Software Engineer 👋
 
-Software engineer graduated in computer sciences from Universidad de Murcia. I consider myself an outgoing and proactive person who has no problem interacting with others in the workplace and always tries to propose solutions. I am passionate about programming and enjoy spending my free time working on projects that solve problems and turn ideas into software.
+Software engineer graduated in computer sciences from Universidad de Murcia. I consider myself an outgoing and proactive person who has no problem interacting with others in the workplace and always tries to propose solutions.
 
-💻 I have created [Spotify Electron](https://github.com/AntonioMrtz/SpotifyElectron), a fully functional open-source cross-platform music streaming desktop application that aims to include all the original Spotify features as well as add requested extra features, such as the ability to upload your own songs to the platform.
+💻 I have created [Spotify Electron](https://github.com/AntonioMrtz/SpotifyElectron), a fully functional open-source cross-platform music streaming desktop application that aims to include all the original Spotify features as well as add requested extra features, such as the ability to upload your own songs to the platform. This project covers all stages of software development, from agile planning to automation. I actively engage with contributors from all across the world, reviewing their code and providing feedback to ensure high-quality contributions.
 
 ⭐ Right now, I’m working at [Bionet](https://bionet.com/) as a full-stack developer with Python and Angular. I am developing embedded backend software (ROSITA2) for bioreactors, as well as the interface used to control the bioreactors. The main tasks I have carried out include implementing REST APIs and microservices using Python and FastAPI, along with designing and implemeting the touchscreen interface that allows users to manage the devices with Angular and Bootstrap. I have also worked closely with the electronics and frontend teams for the development of [CT1](https://bionet.com/bioreactors/ct-1/) and [bBreath4](https://bionet.com/bioreactor-modules/bbreath/).
 
-🥊 I enjoy outdoor sports like trail running and cycling, participating in various competitions, while also loving to listen to and discover music.
+🥊 I love outdoor sports like trail running and cycling, and I enjoy participating in various competitions. In addition, I have a passion for music, always excited to listen to new genres and discover fresh artists.
 
 <b>🌐 [More info on my Portfolio](https://antoniomrtz.github.io/Portfolio/)</b>
 

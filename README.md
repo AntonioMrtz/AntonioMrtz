@@ -1,13 +1,20 @@
 # 💫 About Me:
 ### Hi there, I'm Antonio Martínez - Full Stack Software Engineer 👋
 
-I am a Software Engineer with a degree in Computer Science from the Universidad de Murcia. I consider myself an outgoing and proactive individual who thrives on collaborating with others in the workplace. I am passionate about driving continuous improvement and refining processes to deliver effective solutions. My goal is to always contribute to the success of my team and organization through innovation and teamwork.
+🚶🏻 I am a full-stack Software Engineer with a degree in Computer Science from the Universidad de Murcia. As an outgoing and proactive individual, I excel at tackling challenges, collaborating with diverse teams, and continuously refining processes to deliver innovative and impactful solutions. My adaptability, ability to self-manage, and commitment to independent learning have been essential drivers of my professional growth.
 
-💻 I have created [Spotify Electron](https://github.com/AntonioMrtz/SpotifyElectron), a fully functional open-source cross-platform music streaming desktop application that aims to include all the original Spotify features as well as add requested extra features, such as the ability to upload your own songs to the platform. This project covers all stages of software development, from agile planning to automation. I actively engage with contributors from all across the world, reviewing their code and providing feedback to ensure high-quality contributions.
+💻 I’m deeply passionate about technology, eager to explore how things work, and always up for exciting projects. I created [Spotify Electron](https://github.com/AntonioMrtz/SpotifyElectron), an open-source, cross-platform desktop music streaming application that extends original Spotify features while introducing user-requested functionalities, such as the ability to upload personal songs. This project reflects my dedication to the full software development lifecycle, from agile planning to automation. I actively engage with a global network of contributors, ensuring high-quality code and fostering collaboration.
 
-⭐ Right now, I’m working at [Bionet](https://bionet.com/) as a full-stack developer with Python and Angular. I am developing embedded backend software ([ROSITA2](https://bionet.com/software/rosita/)) for bioreactors, as well as the interface used to control the bioreactors. The main tasks I have carried out include implementing REST APIs and microservices using Python and FastAPI, along with designing and implemeting the touchscreen interface that allows users to manage the devices with Angular and Bootstrap. I have also worked closely with the electronics and frontend teams for the development of [CT1](https://bionet.com/bioreactors/ct-1/) and [bBreath4](https://bionet.com/bioreactor-modules/bbreath/).
 
-🥊 I love outdoor sports like trail running and cycling, and I enjoy participating in various competitions. In addition, I have a passion for music, always excited to listen to new genres and discover fresh artists.
+⭐ Right now, I’m working at [Bionet](https://bionet.com/) as a full-stack developer with Python and Angular. I am developing embedded backend software ([ROSITA2](https://bionet.com/software/rosita/)) for bioreactors, as well as the interface used to control the bioreactors. The main tasks I have carried out include implementing REST APIs and microservices using Python and FastAPI, along with designing and implemeting the touchscreen interface that allows users to manage the devices with Angular and Bootstrap. I’m responsible for software development in bSmart devices, such as [CT1](https://bionet.com/bioreactors/ct-1/) and [bBreath4](https://bionet.com/bioreactor-modules/bbreath/), collaborating closely with the electronics teams
+
+
+🌟 Beyond Full Stack development, I’m eager and excited to explore electronics and emerging technologies. As a dedicated Linux OS enthusiast, I have been using Linux exclusively for several years. I stay consistently up to date with the latest advancements in Linux-related technologies, with a particular focus on Ubuntu and Fedora. This deep engagement has not only strengthened my adaptability to evolving technologies but also enriched my expertise in operating systems.
+
+
+🥊 Outside of coding, I love outdoor sports like trail running and cycling, often participating in competitions. Music is another big part of my life—I’m always keen to discover new genres and explore fresh artists.
+
+By combining my passion for technology, adaptability, and teamwork, I aim to contribute meaningfully to projects that drive innovation and success.
 
 <b>🌐 [More info on my Portfolio](https://antoniomrtz.github.io/Portfolio/)</b>
 

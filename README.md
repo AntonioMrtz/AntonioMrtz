@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there, I'm Antonio Martínez - Full Stack Software Engineer 👋
 
-🚶🏻 I am a full-stack Software Engineer with a degree in Computer Science from the Universidad de Murcia. As an outgoing and proactive individual, I excel at tackling challenges, collaborating with diverse teams, and continuously refining processes to deliver innovative and impactful solutions. My adaptability, ability to self-manage, and commitment to independent learning have been essential drivers of my professional growth.
+🚶🏻 I am a full-stack Software Engineer with a degree in Computer Science from the Universidad de Murcia. As an outgoing and proactive individual, I excel at tackling challenges, collaborating with diverse teams, and continuously refining processes to deliver innovative and impactful solutions. My strong verbal communication skills allow me to effectively present ideas and lead discussions. My adaptability to change, ability to self-manage, and commitment to independent learning have been key drivers of my professional growth.
 
 💻 I’m deeply passionate about technology, eager to explore how things work, and always up for exciting projects. I created [Spotify Electron](https://github.com/AntonioMrtz/SpotifyElectron), an open-source, cross-platform desktop music streaming application that extends original Spotify features while introducing user-requested functionalities, such as the ability to upload personal songs. This project reflects my dedication to the full software development lifecycle, from agile planning to automation. I actively engage with a global network of contributors, ensuring high-quality code and fostering collaboration.
 
@@ -14,7 +14,7 @@
 
 🥊 Outside of coding, I love outdoor sports like trail running and cycling, often participating in competitions. Music is another big part of my life—I’m always keen to discover new genres and explore fresh artists.
 
-By combining my passion for technology, adaptability, and teamwork, I aim to contribute meaningfully to projects that drive innovation and success.
+By combining my passion for technology, adaptability, strong communication, and teamwork, I aim to contribute meaningfully to projects that drive innovation and success.
 
 <b>🌐 [More info on my Portfolio](https://antoniomrtz.github.io/Portfolio/)</b>
 

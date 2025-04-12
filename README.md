@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 🖥🎨 About Me:
 ### Hi there, I'm Antonio Martínez - Full-Stack Software Engineer 👋
 
-I stand out in creating integrated frontend-backend solutions, designing software architecture and staying up to date with the latest tech trends. I enjoy tackling challenging problems and collaborating with diverse teams to transform ideas into software that drives impact.
+🔝 I stand out in creating integrated frontend-backend solutions, designing software architecture and staying up to date with the latest tech trends. I enjoy tackling challenging problems and collaborating with diverse teams to transform ideas into software that drives impact.
 
 💻 I’m deeply passionate about technology, eager to explore how things work, and always up for exciting projects. I created Spotify Electron, an open-source, cross-platform desktop music streaming application that extends original Spotify features while introducing user-requested functionalities, such as the ability to upload personal songs. This project reflects my dedication to the full software development lifecycle, from agile planning to automation. I actively engage with a global network of contributors, ensuring high-quality code and fostering collaboration.
 

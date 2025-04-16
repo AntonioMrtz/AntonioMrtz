@@ -3,13 +3,6 @@
 
 🔝 I stand out in creating integrated frontend-backend solutions, designing software architecture and staying up to date with the latest tech trends. I enjoy tackling challenging problems and collaborating with diverse teams to transform ideas into software that drives impact.
 
-💻 I’m deeply passionate about technology, eager to explore how things work, and always up for exciting projects. I created Spotify Electron, an open-source, cross-platform desktop music streaming application that extends original Spotify features while introducing user-requested functionalities, such as the ability to upload personal songs. This project reflects my dedication to the full software development lifecycle, from agile planning to automation. I actively engage with a global network of contributors, ensuring high-quality code and fostering collaboration.
-
-🌟 Beyond full-stack development, I’m eager and excited to explore electronics and emerging technologies. As a dedicated Linux OS enthusiast, I have been using Linux exclusively for several years. I stay consistently up to date with the latest advancements in Linux-related technologies, with a particular focus on Ubuntu and Fedora.
-
-🥊 Outside of coding, I love outdoor sports like trail running and cycling, often participating in competitions. Music is another big part of my life—I’m always keen to discover new genres and explore fresh artists.
-
-
 💻 I’m deeply passionate about technology, eager to explore how things work, and always up for exciting projects. I created [Spotify Electron](https://github.com/AntonioMrtz/SpotifyElectron), an open-source, cross-platform desktop music streaming application that extends original Spotify features while introducing user-requested functionalities, such as the ability to upload personal songs. This project reflects my dedication to the full software development lifecycle, from agile planning to automation.
 
 ⭐ Right now, I’m working at [Bionet](https://bionet.com/) as a Full-Stack developer using Python, Angular and FastAPI stack. I'm developing an embedded software ([ROSITA2](https://bionet.com/software/rosita/)) for bioreactors, such as the [F1 model](https://bionet.com/bioreactors/f1/), as well as the desktop and touchscreen application used to control the bioreactors. I’m responsible for software development in bSmart devices, such as [CT1](https://bionet.com/bioreactors/ct-1/) and [bBreath4](https://bionet.com/bioreactor-modules/bbreath/), creating integrated frontend-backend solutions.

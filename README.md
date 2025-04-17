@@ -1,5 +1,4 @@
-# 🖥🎨 About Me:
-### Hi there, I'm Antonio Martínez - Full-Stack Software Engineer 👋
+# Hi there, I'm Antonio Martínez - Full-Stack Software Engineer 👋
 
 🔝 I stand out in creating integrated frontend-backend solutions, designing software architecture and staying up to date with the latest tech trends. I enjoy tackling challenging problems and collaborating with diverse teams to transform ideas into software that drives impact.
 

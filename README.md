@@ -1,5 +1,6 @@
 # 👋 Hi, I'm **Antonio Martínez** — Full-Stack Software Engineer
 
+
 🚀 Full-Stack Developer focused on:
 
 - Building **integrated frontend–backend solutions**  
@@ -7,7 +8,6 @@
 - Staying up to date with the **latest tech trends**  
 - Tackling **complex challenges**  
 - Collaborating with **diverse teams** to turn ideas into impactful software
-
 
 
 ## 🧰 Tech Stack
@@ -106,6 +106,12 @@
 		</td>
 	</tr>
 </table>
+</div>
+
+## 🌐 Languages
+<div align="left">
+	<a href="#"><img src="https://img.shields.io/badge/🇬🇧%20English-22223b?style=for-the-badge&logoColor=white" alt="English"/></a>
+	<a href="#"><img src="https://img.shields.io/badge/🇪🇸%20Español-22223b?style=for-the-badge&logoColor=white" alt="Español"/></a>
 </div>
 
 

@@ -114,22 +114,6 @@
 	<a href="#"><img src="https://img.shields.io/badge/🇪🇸%20Español-22223b?style=for-the-badge&logoColor=white" alt="Español"/></a>
 </div>
 
-
-
-
-
-## 🎧 Featured Project: **Spotify Electron**
-
-Creator and Lead Developer of an open-source, cross-platform music streaming desktop app that replicates and extends Spotify’s features — including **personal music uploads**, improved UI interactions, and custom enhancements requested by the community.
-
-### 🔥 Highlights
-- Built a **FastAPI + MongoDB** backend powering authentication, media management, and streaming.
-- Developed the desktop app with **React, TypeScript, and Electron**, supporting Windows, Linux, and macOS.
-- Implemented **secure JWT auth**, scalable streaming workflows, and optimized media handling.
-- Deployed cloud infrastructure using **AWS (S3, CloudFront, Lambda)** for storage and delivery.
-- Managed a **global open-source team of 25+ contributors**, coordinating development using Agile practices.
-- Automated testing and CI/CD with **GitHub Actions**, ensuring quality and stable releases.
-
 ## 🔗 Contact & Links
 
 - 🌐 **Portfolio:** https://antoniomrtz.github.io/Portfolio/  

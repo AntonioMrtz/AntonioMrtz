@@ -6,9 +6,6 @@
 - Building **integrated frontend–backend solutions**  
 - Designing **scalable software architectures**  
 - Staying up to date with the **latest tech trends**  
-- Tackling **complex challenges**  
-- Collaborating with **diverse teams** to turn ideas into impactful software
-
 
 ## 🧰 Tech Stack
 

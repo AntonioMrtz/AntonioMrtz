@@ -4,7 +4,8 @@
 🚀 Full-Stack Developer focused on:
 
 - Building **integrated frontend–backend solutions**  
-- Designing **scalable software architectures**  
+- Designing **scalable software architectures**
+- Building **side projects** based on challenges I encounter or tools I wish existed.
 - Staying up to date with the **latest tech trends**  
 
 ## 🧰 Tech Stack

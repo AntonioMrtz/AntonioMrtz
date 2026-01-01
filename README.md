@@ -51,7 +51,7 @@
 		<td>
 			<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
 				<span style="display: flex; gap: 6px;">
-					<img src="https://skillicons.dev/icons?i=ts" width="25"/>
+					<img src="https://skillicons.dev/icons?i=nodejs" width="25"/>
 					<img src="https://skillicons.dev/icons?i=nestjs" width="25"/>
 				</span>
 				<span style="display: flex; gap: 6px;">

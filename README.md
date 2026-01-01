@@ -55,7 +55,7 @@
 					<img src="https://skillicons.dev/icons?i=nestjs" width="25"/>
 				</span>
 				<span style="display: flex; gap: 6px;">
-					<span>TypeScript + </span>
+					<span>Node.js + </span>
 					<span>NestJS</span>
 				</span>
 			</div>

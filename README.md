@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Antonio Martínez** — Full-Stack Developer
 
-🟠 Full-Stack Developer focused on:
+Full-Stack Developer focused on:
 
 - Building integrated frontend–backend solutions
 - Trying to improve 1% each day

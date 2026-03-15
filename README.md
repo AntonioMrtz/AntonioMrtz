@@ -1,5 +1,7 @@
 # 👋 Hi, I'm **Antonio Martínez** — Full-Stack Developer
 
+![Linkedin banner](assets/linkedin-banner.png)
+
 Full-Stack Developer focused on:
 
 - Building integrated frontend–backend solutions

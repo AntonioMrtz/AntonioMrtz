@@ -5,9 +5,9 @@
 
 ## 🚀 Founder of
 
-* [🎶 Spotify Electron](https://antoniomrtz.github.io/SpotifyElectron_Web/)
-* [🎄 adventjs-cli](https://github.com/AntonioMrtz/adventjs-cli)
-* [🏖️ Bañito pa' cuando?](https://banito-pa-cuando.vercel.app/)
+* 🎶 [Spotify Electron](https://antoniomrtz.github.io/SpotifyElectron_Web/)
+* 🎄 [adventjs-cli](https://github.com/AntonioMrtz/adventjs-cli)
+* 🏖️ [Bañito pa' cuando?](https://banito-pa-cuando.vercel.app/)
 
 ## 🧰 Tech Stack
 

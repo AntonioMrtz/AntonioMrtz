@@ -3,7 +3,7 @@
 ![Linkedin banner](assets/linkedin-banner.png)
  
 
-## 🚀 Founder of
+## 🚀 Founder
 
 * 🎶 [Spotify Electron](https://antoniomrtz.github.io/SpotifyElectron_Web/)
 * 🎄 [adventjs-cli](https://github.com/AntonioMrtz/adventjs-cli)

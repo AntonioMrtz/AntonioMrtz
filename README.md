@@ -5,25 +5,25 @@
 
 ## 🚀 Founder
 
-<div style="display:flex; flex-direction: row;gap:24px; flex-wrap:wrap;">
+<table>
+  <tr>
+    <td align="center" width="260">
+      <a href="https://antoniomrtz.github.io/SpotifyElectron_Web/">
+        <img src="assets/se-logo.png" width="64" alt="Spotify Electron" />
+        <br /><br />
+        <strong>Spotify Electron</strong>
+      </a>
+    </td>
 
-  <a href="https://antoniomrtz.github.io/SpotifyElectron_Web/" style="text-decoration:none;">
-    <div style="padding:20px; border-radius:16px; border:1px solid #30363d; width:220px;">
-      <img src="assets/se-logo.png" width="64" alt="Spotify Electron" />
-      <br />
-      <strong>Spotify Electron</strong>
-    </div>
-  </a>
-
-  <a href="https://antoniomrtz.github.io/adventjs-cli-web" style="text-decoration:none;">
-    <div style="padding:20px; border-radius:16px; border:1px solid #30363d; width:220px;">
-      <img src="assets/adventjs-cli.png" width="64" alt="adventjs-cli" />
-      <br />
-      <strong>adventjs-cli</strong>
-    </div>
-  </a>
-
-</div>
+    <td align="center" width="260">
+      <a href="https://antoniomrtz.github.io/adventjs-cli-web">
+        <img src="assets/adventjs-cli.png" width="64" alt="adventjs-cli" />
+        <br /><br />
+        <strong>adventjs-cli</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Tech Stack
 

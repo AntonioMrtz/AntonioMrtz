@@ -5,7 +5,7 @@
 
 ## 🚀 Founder
 
-<div style="display:flex; gap:24px; flex-wrap:wrap;">
+<div style="display:flex; flex-direction: row;gap:24px; flex-wrap:wrap;">
 
   <a href="https://antoniomrtz.github.io/SpotifyElectron_Web/" style="text-decoration:none;">
     <div style="padding:20px; border-radius:16px; border:1px solid #30363d; width:220px;">

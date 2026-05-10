@@ -7,19 +7,18 @@
 
 <table>
   <tr>
-    <td align="center" width="260">
+    <td align="center" width="50%">
       <a href="https://antoniomrtz.github.io/SpotifyElectron_Web/">
-        <img src="assets/se-logo.png" width="64" alt="Spotify Electron" />
-        <br /><br />
-        <strong>Spotify Electron</strong>
+        <img src="assets/se-logo.png" width="80" alt="Spotify Electron" />
+        <br />
+        <b>Spotify Electron</b>
       </a>
     </td>
-
-    <td align="center" width="260">
+    <td align="center" width="50%">
       <a href="https://antoniomrtz.github.io/adventjs-cli-web">
-        <img src="assets/adventjs-cli.png" width="64" alt="adventjs-cli" />
-        <br /><br />
-        <strong>adventjs-cli</strong>
+        <img src="assets/adventjs-cli.png" width="80" alt="adventjs-cli" />
+        <br />
+        <b>adventjs-cli</b>
       </a>
     </td>
   </tr>

@@ -3,7 +3,7 @@
 ![Linkedin banner](assets/linkedin-banner.png)
  
 
-## 🚀 Founder of
+## 🚀 Founder
 
 <div style="display:flex; gap:24px; flex-wrap:wrap;">
 
